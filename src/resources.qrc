@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/Myresource">
+        <file>arrow.png</file>
+        <file>arrow_pressed.png</file>
+    </qresource>
+</RCC>
