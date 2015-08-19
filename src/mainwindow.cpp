@@ -94,6 +94,7 @@ MainWindow::MainWindow(QWidget *parent) :
     ui->multi_IMU->setFocusPolicy(Qt::NoFocus);
     ui->displayClouds->setFocusPolicy(Qt::NoFocus);
     ui->pclICP_IMU->setFocusPolicy(Qt::NoFocus);
+    ui->pclDisplayClouds->setFocusPolicy(Qt::NoFocus);
 
     ui->tabWidget->setCurrentIndex(0);
 }
